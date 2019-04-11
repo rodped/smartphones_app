@@ -1,0 +1,27 @@
+{
+  "name": "smartphones_app",
+  "version": "1.0.0",
+  "description": "smartphones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodped/smartphones_app.git"
+  },
+  "keywords": [
+    "smartphones"
+  ],
+  "author": "Pedro Asseiro Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodped/smartphones_app/issues"
+  },
+  "homepage": "https://github.com/rodped/smartphones_app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.0"
+  }
+}
