@@ -1,0 +1,6 @@
+Esta aplicação é baseada no tutorial disponibilidado no site https://pplware.sapo.pt
+
+Os links para o tutorial são os seguintes:
+    1. https://pplware.sapo.pt/tutoriais/app-crud-com-node-js/
+    2. https://pplware.sapo.pt/tutoriais/app-crud-node-js-mongodb/
+    3. https://pplware.sapo.pt/tutoriais/crud_node-js_mongodb_3/
